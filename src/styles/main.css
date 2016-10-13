@@ -289,6 +289,7 @@ a.button svg, a.button img { padding-right: 1.8rem; }
   border-radius: 5px;
   box-shadow: 0 24px 64px rgba(0, 0, 0, .4);
   max-width: 320px;
+  max-height: 320px;
 }
 
 
