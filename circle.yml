@@ -1,0 +1,10 @@
+dependencies:
+  post:
+    - npm install -g gulp-cli
+    - gulp
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - rsync -avz -e -O --delete --rsh="ssh -o BatchMode=yes -p 22" ./build/ circleci@devjapan.jp:/var/www/devjapan.jp/html/
