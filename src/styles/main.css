@@ -286,7 +286,7 @@ a.button svg, a.button img { padding-right: 1.8rem; }
   position: absolute;
   right: 15px;
   bottom: -148px;
-  border-radius: 5px; !important
+  border-radius: 5px;
   box-shadow: 0 24px 64px rgba(0, 0, 0, .4);
   max-width: 320px;
 }
