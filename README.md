@@ -1,6 +1,6 @@
 # devjapan-website
 
-This is the repository for the [Dev Japan] website!
+This is the repository for the [Dev Japan Tokyo] website!
 
 ## Development
 
@@ -21,7 +21,7 @@ change that you do, use `gulp dev`.
 
 ### To Do
 
-Modify CircleCI configuration to prevent building when non src directory files are modified and pushed to master.
+Modify [CircleCI] configuration to prevent building when non src directory files are modified and pushed to master.
 
 [Dev Japan Tokyo]: https://devjapan.jp
 [Node.js]: https://nodejs.org
