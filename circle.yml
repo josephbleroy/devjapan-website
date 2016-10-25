@@ -7,4 +7,4 @@ deployment:
   production:
     branch: master
     commands:
-      - rsync -avz -e -O --delete --rsh="ssh -o BatchMode=yes -p 22" ./build/ circleci@devjapan.jp:/var/www/devjapan.jp/html/
+      - rsync -avz -e -O --delete --rsh="ssh -o BatchMode=yes -p 22" ./build/ circleci@devjapan.jp:/home/circleci/devjapan-website-buid/
