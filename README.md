@@ -19,9 +19,6 @@ in the git ignored `build` directory.
 If you want to make multiple changes and have the files rebuilt on every
 change that you do, use `gulp dev`.
 
-# CI/CD Process
-
-
-[devjapan]: https://devjapan.jp
-[node.js]: https://nodejs.org
-[Fork]: https://help.github.com/articles/fork-a-repo/
+[Dev Japan Tokyo]: https://devjapan.jp
+[Node.js]: https://nodejs.org
+[CircleCI]: https://circleci.com
