@@ -147,7 +147,8 @@ a.button svg, a.button img { padding-right: 1.8rem; }
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: $light-purple;
+  background: url(../images/devjapan-space.jpg);
+  background-size: cover;
   /*background: linear-gradient(270deg, #4946a6, #141a40);
   background-size: 600% 600%;
 
