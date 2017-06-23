@@ -23,7 +23,7 @@ change that you do, use `gulp dev`.
 
 1. After running the `gulp build` command, there will be a directory called `build`.
 2. Do normal git related tasks to keep src updated locally and remote (Github).
-3. Use `rsync -a build username@server:/var/www/devjapan.jp/html/build`
+3. Use `rsync -a build username@server:/var/www/devjapan.jp/html`
 
 ### To Do
 
