@@ -10,10 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/josephleroy/devjapan-website.git"
   },
-  "author": "github.com/josephleroy",
+  "author": "github.com/josephbleroy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/josephleroy/devjapan-website/issues"
+    "url": "https://github.com/josephbleroy/devjapan-website/issues"
   },
   "homepage": "https://devjapan.jp",
   "devDependencies": {
